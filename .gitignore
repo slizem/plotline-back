@@ -1,0 +1,12 @@
+﻿Plotline.API/bin
+Plotline.API/obj
+Plotline.AppHost/bin
+Plotline.AppHost/obj
+Plotline.Core/bin
+Plotline.Infrastructure/bin
+Plotline.ServiceDefaults/bin
+Plotline.ServiceDefaults/obj
+Plotline.Infrastructure/obj
+Plotline.Core/obj
+Plotline.Application/bin
+Plotline.Application/obj
