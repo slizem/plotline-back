@@ -5,7 +5,7 @@
 
 ---
 
-## ![#](https://img.shields.io/badge/stack-технологии-blue) Стек технологий
+## Стек технологий
 
 | Технология | Назначение |
 |------------|------------|
@@ -20,16 +20,16 @@
 
 ---
 
-## ![#](https://img.shields.io/badge/arch-архитектура-purple) Архитектура проекта
+## Архитектура проекта
 
-- ![API](https://img.shields.io/badge/API-Plotline.API-blue) — входная точка, контроллеры, middleware  
-- ![Application](https://img.shields.io/badge/Application-Plotline.Application-green) — бизнес-логика, сервисы, DTO  
-- ![Core](https://img.shields.io/badge/Core-Plotline.Core-red) — модели, интерфейсы, доменные сущности  
-- ![Infrastructure](https://img.shields.io/badge/Infrastructure-Plotline.Infrastructure-orange) — доступ к данным, репозитории, миграции  
+- ![API](https://img.shields.io/badge/API-blue) — входная точка, контроллеры, middleware  
+- ![Application](https://img.shields.io/badge/Application-blue) — бизнес-логика, сервисы, DTO  
+- ![Core](https://img.shields.io/badge/Core-blue) — модели, интерфейсы, доменные сущности  
+- ![Infrastructure](https://img.shields.io/badge/Infrastructure-blue) — доступ к данным, репозитории, миграции  
 
 ---
 
-## ![#](https://img.shields.io/badge/run-запуск-success) Запуск проекта
+## Запуск проекта
 
 Запустить проект можно несколькими способами:
 1. Из IDE.
@@ -50,7 +50,7 @@
 
   ---
 
-### ![#](https://img.shields.io/badge/req-требования-yellow) Требования
-- ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet) — [Скачать](https://dotnet.microsoft.com/download)
+### Требования
+- ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4) — [Скачать](https://dotnet.microsoft.com/download)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql) — [Скачать](https://www.postgresql.org/download/)
 - ![Docker](https://img.shields.io/badge/Docker-Desktop-2496ED?logo=docker) — [Скачать](https://www.docker.com/products/docker-desktop/) (опционально)
