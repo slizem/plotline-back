@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="docker-compose.yml" />
+    <File Path="start-db.bat" />
+    <File Path="stop-db.bat" />
+  </Folder>
+  <Project Path="Plotline.Application/Plotline.Application.csproj" />
+  <Project Path="Plotline.Infrastructure/Plotline.Infrastructure.csproj" Id="cbdab42a-8080-4ae1-a94f-ada7e9ed1e0d" />
+  <Project Path="Plotline.AppHost/PlotlineAPI.AppHost.csproj" />
+  <Project Path="Plotline.Core/Plotline.Core.csproj" Id="d316cc9a-db5d-429e-a244-c0c4f49aa629" />
+  <Project Path="Plotline.ServiceDefaults/PlotlineAPI.ServiceDefaults.csproj" />
+  <Project Path="Plotline.API/Plotline.API.csproj" />
+</Solution>

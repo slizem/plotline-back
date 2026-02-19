@@ -10,3 +10,6 @@ Plotline.Infrastructure/obj
 Plotline.Core/obj
 Plotline.Application/bin
 Plotline.Application/obj
+.vs
+Plotline.API/Logs
+Plotline.AppHost/appsettings.json
