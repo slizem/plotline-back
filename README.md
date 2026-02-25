@@ -9,14 +9,14 @@
 
 | Технология | Назначение |
 |------------|------------|
-| ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-8.0-512BD4?logo=dotnet) | Фреймворк для построения Web API |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql) | Реляционная база данных |
-| ![EF Core](https://img.shields.io/badge/EF_Core-8.0-512BD4?logo=dotnet) | ORM для работы с БД |
-| ![JWT](https://img.shields.io/badge/JWT-Auth-black?logo=jsonwebtokens) | Аутентификация |
-| ![AutoMapper](https://img.shields.io/badge/AutoMapper-12.0-ff69b4) | Маппинг между моделями и DTO |
-| ![Serilog](https://img.shields.io/badge/Serilog-Logging-2C2C2C?logo=serilog) | Структурированное логирование |
-| ![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger) | Документация и тестирование API |
-| ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker) | Контейнеризация |
+| ASP.NET | Фреймворк для построения Web API |
+| PostgreSQL | Реляционная база данных |
+| EF Core | ORM для работы с БД |
+| JWT | Аутентификация |
+| AutoMapper | Маппинг между моделями и DTO |
+| Serilog | Структурированное логирование |
+| Swagger | Документация и тестирование API |
+| Docker | Контейнеризация |
 
 ---
 
